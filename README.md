@@ -15,7 +15,7 @@
 [![twitter](https://img.shields.io/static/v1?style=flat-square&logo=twitter&label=&message=@anthlone&color=5b5b5b&labelColor=5b5b5b)](https://twitter.com/anthlone)
 [![hackerrank](https://img.shields.io/static/v1?style=flat-square&logo=hackerrank&label=&message=@anthlone&color=5b5b5b&labelColor=5b5b5b)](https://www.hackerrank.com/Anthlone)
 
-<!--  Tech stack -->
+<!--  Tech stack 
 ### 💻 Current Tech Stack
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
@@ -23,3 +23,6 @@
 | <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/> | [![C# Project](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://blakley.github.io/) |
 | <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> | [![HTML5 Project](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://blakley.github.io/) |
 | <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> | [![Python Project](https://img.shields.io/static/v1?label=Python-Project&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://blakley.github.io/) |
+
+
+-->

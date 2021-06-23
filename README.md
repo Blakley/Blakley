@@ -25,4 +25,4 @@ Languages I often develop in: </br>
 
 > Somewhere, something incredible is waiting to be known.
 
-— Arthur Carl Sagan 🐜
+— Carl Sagan 🐜

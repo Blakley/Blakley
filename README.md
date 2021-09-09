@@ -12,7 +12,7 @@
 <br />
 <br />
 
-In short, I'm an avid programmer from Missouri that has a keen interest in Cyber Security, IoT, and UI design. </br>
+In short, I'm an avid programmer with a keen interest in Cyber Security, IoT, and UI design. </br>
 Follow me on my journey in making life a little simpler, one line of code at a time.
 
 Languages I often develop in: </br>

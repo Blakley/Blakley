@@ -5,15 +5,11 @@
 <a href="https://www.twitter.com/anthlone/">
   <img align="left" alt="Blakley's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.hackerrank.com/Anthlone">
-  <img align="left" alt="Blakley's Hackerrank" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
 
 <br />
 <br />
 
-In short, I'm an avid programmer with a keen interest in Cyber Security, IoT, and UI design. </br>
-Follow me on my journey in making life a little simpler, one line of code at a time.
+In short, I'm an avid programmer with a keen interest in Cyber Security.</br>
 
 Languages I often develop in: </br>
 ⚆ C </br>

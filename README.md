@@ -1,4 +1,4 @@
-### Hey, nice to meet you.
+### Anthony Blakley
 <a href="https://www.linkedin.com/in/anthony-blakley/">
   <img align="left" alt="Blakley's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -20,5 +20,3 @@ Languages I often develop in: </br>
 ---
 
 > Somewhere, something incredible is waiting to be known.
-
-— Carl Sagan 🐜

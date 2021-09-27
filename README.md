@@ -9,7 +9,7 @@
 <br />
 <br />
 
-In short, I'm an avid programmer with a keen interest in Cyber Security.</br>
+In short, I'm an avid programmer with an interest in Cyber Security.</br>
 
 Languages I often develop in: </br>
 ⚆ C </br>

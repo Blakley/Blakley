@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/anthony-blakley/">
   <img align="left" alt="Blakley's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.twitter.com/anthlone/">
+<a href="https://www.twitter.com/anthonyblakley/">
   <img align="left" alt="Blakley's Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
